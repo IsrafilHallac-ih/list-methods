@@ -1,0 +1,2 @@
+# list-methods
+BTK AKADEMİ -PYTHON LİST METHODS
